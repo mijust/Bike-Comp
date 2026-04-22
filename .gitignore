@@ -1,0 +1,11 @@
+.pio/
+Device_Code/.pio/
+node_modules/
+__pycache__/
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.db
+.sconsign*
